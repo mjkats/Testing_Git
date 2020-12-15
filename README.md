@@ -1,4 +1,4 @@
 # Testing_Git
 Testing Git Commands
 
-1. First commit
+1.1 - Altered first commit on new branch
